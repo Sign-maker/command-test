@@ -1,0 +1,11 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.about {
+  background-color: rgb(16, 57, 107);
+}
+
+.about-text {
+  color: green;
+}
