@@ -1,0 +1,14 @@
+.hero-section {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-image: linear-gradient(90deg, yellow, red);
+}
+.hero-title {
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+}
+.hero-text {
+  color: black;
+  text-align: center;
+}
