@@ -1,3 +1,7 @@
+:root {
+  --my-color: #568965;
+}
+
 @font-face {
   font-family: 'Roboto';
   src: url('../fonts/Roboto-Medium.woff2') format('woff2'),
